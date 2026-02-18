@@ -1,4 +1,4 @@
-# Mahmoud Gamal Najdy  
+# Mahmoud Najdy  
 Machine Learning Engineer | Data Scientist  
 
 ---
