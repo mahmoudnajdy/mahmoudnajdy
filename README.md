@@ -1,90 +1,64 @@
-# Mahmoud Najdy  
-Machine Learning Engineer | Data Scientist  
+<h1 align="center">Mahmoud Gamal Najdy</h1>
+<h3 align="center">Machine Learning & MLOps Engineer</h3>
 
 ---
 
-## Professional Focus
+### About Me
 
-I design machine learning systems with an emphasis on:
-
-- Validation integrity  
-- Data leakage prevention  
-- Imbalanced classification handling  
-- Threshold calibration  
-- Risk-aware evaluation  
-
-My approach prioritizes deployment-relevant performance over headline metrics.
-
----
-
-## Core Competencies
-
-### Machine Learning
-- Supervised Learning (Classification & Regression)
-- Logistic Regression (L1/L2)
-- Gradient Boosting (XGBoost)
-- Cross-Validation (Stratified K-Fold, Repeated K-Fold)
-- Hyperparameter Optimization
-- Feature Engineering
-- Model Calibration & Threshold Optimization
-- Imbalanced Learning (SMOTE, Cost-Sensitive Learning)
-
-### Engineering & Implementation
-- Scikit-learn Pipelines
-- ColumnTransformer
-- Reproducible Experiments
-- FastAPI Model Serving
-- Docker Containerization
-- REST APIs
-
-### Technical Foundation
-- Python (OOP)
-- SQL
-- Git
-- Linear Algebra
-- Probability & Statistics
+- Building production-oriented AI & Machine Learning systems
+- Interested in MLOps, AI Systems, Computer Vision, and Cloud Infrastructure
+- Currently learning Kubernetes, advanced MLOps workflows, and AI deployment systems
+- Strong interest in ML theory, mathematics, and scalable AI architectures
+- Working on end-to-end ML pipelines using FastAPI, Docker, AWS, and CI/CD workflows
+- Experience with Machine Learning, Deep Learning, Computer Vision, and automation systems
+- Passionate about transforming ML models into real production-ready applications
+- Open to AI, ML, and MLOps opportunities
 
 ---
 
-## Selected Projects
+### Tech Stack
 
-### Credit Card Fraud Detection System
+#### Machine Learning & AI
+`Python` `PyTorch` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-Designed an end-to-end fraud detection framework on highly imbalanced data (0.17% positive class).
+#### MLOps & Infrastructure
+`Docker` `Kubernetes` `FastAPI` `AWS` `CI/CD` `MLflow` `DVC` `Linux`
 
-Key engineering decisions:
-- Strict train-test separation to prevent leakage
-- Stratified cross-validation
-- SMOTE vs class-weight comparison
-- ROC-based threshold optimization
-- Recall vs false-positive trade-off analysis
-
-Result: ROC-AUC 0.987 with calibrated decision boundary.
+#### Tools & Automation
+`Git` `GitHub` `Playwright` `RabbitMQ` `REST APIs`
 
 ---
 
-### Real Estate Price Prediction
+### Featured Projects
 
-Built a structured regression pipeline including:
-- Feature preprocessing with ColumnTransformer
-- Cross-validated model comparison
-- Hyperparameter tuning
-- Performance benchmarking
+#### TinyVGG Image Classification & Deployment Pipeline
+Production-oriented computer vision pipeline using PyTorch, FastAPI, Docker, Kubernetes, CI/CD, and DVC.
 
-Result: R² 0.833
+#### Fraud Detection System
+Fraud detection pipeline on 284K+ transactions using XGBoost and Logistic Regression with deployment workflows using FastAPI, Docker, and AWS.
 
----
+#### Autonomous Cleaning Robot
+Computer vision-based autonomous robot using Raspberry Pi, OpenCV, and Python for real-time navigation and perception.
 
-## Current Direction
-
-- Advanced boosting techniques
-- Model calibration strategies
-- Production-grade ML APIs
-- MLOps best practices
+#### Automation & Web Scraping Framework
+Distributed browser automation and web scraping framework using Playwright, Python, and RabbitMQ.
 
 ---
 
-## Contact
+### Currently Exploring
 
-LinkedIn: https://www.linkedin.com/in/mahmoudnajdy  
+- Production-grade MLOps systems
+- Kubernetes & cloud-native workflows
+- AI infrastructure engineering
+- LLMOps & AI agents
+- Distributed AI systems
+
+---
+
+### Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/mahmoudnajdy
+DockerHub:https://hub.docker.com/repositories/mahmoudnajdy
 Email: mahmoudnajdy01@gmail.com
+
+---
